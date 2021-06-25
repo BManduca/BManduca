@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/BManduca/BManduca/blob/main/imagens/user.png?raw=true" width="300"/>
 
-<h1> 
-  Brunno Manduca 👋  |  I´m a Front-end Developer in construction 🛠
+<h1 align="center"> 
+  Brunno Manduca 👋 <br> I´m a Front-end Developer in construction 🛠
 </h1>
 
 <p align="center">
