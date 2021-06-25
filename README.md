@@ -1,5 +1,7 @@
-<h1 align="center"> Hi there 👋 </h1>
-<h2 align="center"> My name´s Brunno Manduca! </h2>
+<h1 align="center"> 
+  Hi there 👋 <br>
+  My name´s Brunno Manduca!
+</h1>
 
 
 <div align="center">
