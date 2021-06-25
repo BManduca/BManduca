@@ -1,7 +1,7 @@
 <h1 align="center"> 
   Hi there 👋 <br>
   My name´s Brunno Manduca! <br>
-  I´m a Fron-end Developer in construction
+  I´m a Front-end Developer in construction 🛠
   <p> <img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
 </h1>
 
