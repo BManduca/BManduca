@@ -142,22 +142,23 @@
 
 <h2>Stats:</h2>
 
+<!--
 ![Brunno github stats](https://github-readme-stats.vercel.app/api?username=BManduca&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-  <p align="center">
-    <table align='left'>
-      <row>
-        <td>
-         Card
-          <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&layout=compact&theme=dark'>
-        </td>
-        <td>
-          <img height='172' src='https://github-readme-stats.vercel.app/api?username=BManduca&show_icons=true&theme=dark'>
-        </td>
-      </row>
-    </table>
-  </p>
 -->
+
+<p align="center">
+  <table align='left'>
+    <row>
+      <td>
+       Card
+        <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&layout=compact&theme=dark'>
+      </td>
+      <td>
+        <img height='172' src='https://github-readme-stats.vercel.app/api?username=BManduca&show_icons=true&theme=dark'>
+      </td>
+    </row>
+  </table>
+</p>
+
