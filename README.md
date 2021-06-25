@@ -1,10 +1,15 @@
-<h1 align="center"> Hi there 👋 </h1>
-<h2 align="center"> My name´s Brunno! </h2>
-<h3> I´m a Fron-end Developer in construction </h3>
-<p> <img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
+<div>
+  <h1 align="center"> Hi there 👋 </h1>
+  <h2 align="center"> My name´s Brunno! </h2>
+  <h3> I´m a Fron-end Developer in construction </h3>
+  <p> <img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
+</div:
 
-<h2>Networking: </h2>
+
 <div> 
+  
+  <h2>Networking: </h2>
+  
   <a href="https://instagram.com/brunnomanduca" target="_blank"><img src="https://img.icons8.com/fluent/64/000000/instagram-new.png" target="_blank"></a>
   <a href="https://twitter.com/BrunnoPrr" target="_blank"><img src="https://img.icons8.com/color/64/000000/twitter--v1.png" target="_blank"></a>
   <a href = "mailto:brunnomanducarfe@gmail.com"><img src="https://img.icons8.com/fluent/64/000000/gmail.png" target="_blank"></a>
