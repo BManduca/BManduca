@@ -41,7 +41,7 @@
 
  #Busco *aprender*, *conquistar*, *pesquisar*, *registrar* todo meu conhecimento e *desenvolvimento* e também compartilhar.
 
-- [x] Formado em Técnico em Análise e Desenvolvimento de Sistemas pela *UDESC*.
+- [x] Formado em Tecnologia e Análise em Desenvolvimento de Sistemas pela *UDESC*.
 - [x] Sou um entusiasta do desenvolvimento e da tecnologia, hoje com foco em tecnologias que envolvem o **front-end**.
 - [x] Busco trocar o termo *dificuldade* por *desafio*.
 - [x] Gosto de *iniciar/criar* projetos, *alterar* e *inovar*.
