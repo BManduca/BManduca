@@ -59,6 +59,12 @@
 
 ---
 
+<p> Commits </p>
+
+![Snake animation](https://github.com/BManduca/BManduca/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <h2>Stats:</h2>
 
 <p align="center" href="https://github.com/BManduca">
