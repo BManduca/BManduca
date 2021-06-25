@@ -64,6 +64,14 @@
 <h2>Tecnologias: </h2>
 
 **Já estudei:**
+<p align="left">
+  <!-- HTML5 Icon -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">&nbsp;
+  <!-- CSS3 Icon -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">&nbsp;
+  <!-- Bootstrap -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40">&nbsp;
+</p>
 
 **Estou estudando:**
 <p align="left">
@@ -71,6 +79,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40">&nbsp;
   <!-- JS Icon -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40">&nbsp;
+  <!-- Sass Icon -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40">&nbsp;
   <!-- React Icon -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40">&nbsp;
   <!-- Git Icon -->
@@ -80,13 +90,15 @@
 **Tenho interesse:**
 <p align="left">
   <!-- Python Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40">&nbsp;
   <!-- Flutter Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40">&nbsp;
   <!-- Elixir Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="Elixir" width="40" height="40">&nbsp;
   <!-- NodeJS icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40">&nbsp;
+  <!-- VueJS icon -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40">&nbsp;
 </p>
 
 ---
