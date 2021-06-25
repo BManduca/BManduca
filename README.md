@@ -25,9 +25,9 @@
     <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
   </a>  
 
-<p>
+<p> <img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
 
-<img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
+
 
 
 ---
