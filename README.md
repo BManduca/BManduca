@@ -152,7 +152,7 @@
   <table align='left'>
     <row>
       <td>
-       Card
+       <!--Card-->
         <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&layout=compact&theme=dark'>
       </td>
       <td>
