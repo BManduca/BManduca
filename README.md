@@ -6,9 +6,7 @@
 </h1>
 
 <p align="center">
-  <a href="" alt="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com"/>
-  </a>
+  [![Gmail Badge](https://img.shields.io/badge/-brunnomanducarfe@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com)](mailto:brunnomanducarfe@gmail.com)
   
   <a href="https://twitter.com/BrunnoPrr">
     <img alt="Siga no Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BrunnoPrr">
@@ -62,6 +60,7 @@
 - [x] Front-end.
 - [x] Leitura.
 - [x] Team work.
+- [X] Web development technologies.
 
 ---
 
