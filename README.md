@@ -68,7 +68,7 @@
 **Estou estudando:**
 <p align="left">
   <!-- TS Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="react" width="20" height="20">&nbsp;
   <!-- JS Icon -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;
   <!-- React Icon -->
