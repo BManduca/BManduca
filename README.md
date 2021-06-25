@@ -24,8 +24,12 @@
   <a href="https://app.rocketseat.com.br/me/brunno-manduca-1567308643">
     <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
   </a>  
+  
+  <p> <img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
+  
+</p>
+  
 
-<p> <img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
 
 
 
