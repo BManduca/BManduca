@@ -1,12 +1,10 @@
-<div>
-  <h1 align="center"> Hi there 👋 </h1>
-  <h2 align="center"> My name´s Brunno! </h2>
+<h1 align="center"> Hi there 👋 </h1>
+<h2 align="center"> My name´s Brunno Manduca! </h2>
+
+
+<div align="center">
   <h3> I´m a Fron-end Developer in construction </h3>
   <p> <img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
-</div:
-
-
-<div> 
   
   <h2>Networking: </h2>
   
