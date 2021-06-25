@@ -4,7 +4,7 @@
   Brunno Manduca 👋  |  I´m a Front-end Developer in construction 🛠
 </h1>
 
-<p>
+<p align="center">
   <a>
     <img alt="Me envie um email" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com">
   </a>
