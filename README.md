@@ -1,13 +1,12 @@
 <h1 align="center"> 
   Hi there 👋 <br>
-  My name´s Brunno Manduca!
+  My name´s Brunno Manduca! <br>
+  I´m a Fron-end Developer in construction
+  <p> <img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
 </h1>
 
 
-<div align="center">
-  <h3> I´m a Fron-end Developer in construction </h3>
-  <p> <img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
-  
+<div align="center">  
   <h2>Networking: </h2>
   
   <a href="https://instagram.com/brunnomanduca" target="_blank"><img src="https://img.icons8.com/fluent/64/000000/instagram-new.png" target="_blank"></a>
