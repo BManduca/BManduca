@@ -80,13 +80,13 @@
 **Tenho interesse:**
 <p align="left">
   <!-- Python Icon -->
-  <img height='40' src="https://github.com/BManduca/BManduca/blob/main/imagens/python.png?raw=true">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30">&nbsp;
   <!-- Flutter Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" width="30" height="30">&nbsp;
   <!-- Elixir Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="30" height="30">&nbsp;
   <!-- NodeJS icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30">&nbsp;
 </p>
 
 ---
