@@ -5,9 +5,9 @@
   I´m a Front-end Developer in construction 🛠
 </h1>
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com)](brunnomanducarfe@gmail.com)
+
 <p align="center">
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com)](brunnomanducarfe@gmail.com)
-  
   <a href="https://twitter.com/BrunnoPrr">
     <img alt="Siga no Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BrunnoPrr">
   </a>
