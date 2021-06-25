@@ -6,26 +6,28 @@
 </h1>
 
 <p align="center">
-<a href="https://twitter.com/BrunnoPrr">
-  <img alt="Siga no Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BrunnoPrr">
-</a>
+  <a href="" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com"/>
+  </a>
+  
+  <a href="https://twitter.com/BrunnoPrr">
+    <img alt="Siga no Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BrunnoPrr">
+  </a>
 
-<a href="" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com"/>
-</a>
+   <a href="https://instagram.com/brunnomanduca" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/brunnomanduca"/>   </a>
 
- <a href="https://instagram.com/brunnomanduca" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/brunnomanduca"/>   </a>
+  <a href="https://www.linkedin.com/in/brunno-manduca-b97080118/">
+    <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-manduca-b97080118/">
+  </a>
 
-<a href="https://www.linkedin.com/in/brunno-manduca-b97080118/">
-  <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-manduca-b97080118/">
-</a>
+  <a href="https://app.rocketseat.com.br/me/brunno-manduca-1567308643">
+    <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
+  </a>  
 
-<a href="https://app.rocketseat.com.br/me/brunno-manduca-1567308643">
-  <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
-</a>  
+<p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
+<img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
 
 
 ---
@@ -66,7 +68,7 @@
 **Já estudei:**
 <p align="left">
   <!-- HTML5 Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40">&nbsp;
   <!-- CSS3 Icon -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">&nbsp;
   <!-- Bootstrap -->
