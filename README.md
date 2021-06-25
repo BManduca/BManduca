@@ -149,7 +149,7 @@
 -->
 
 <p align="center">
-  <table align='left'>
+  <table align='center'>
     <row>
       <td>
        <!--Card-->
