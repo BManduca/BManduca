@@ -68,25 +68,25 @@
 **Estou estudando:**
 <p align="left">
   <!-- TS Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="30" height="30">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40">&nbsp;
   <!-- JS Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40">&nbsp;
   <!-- React Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="30" height="30">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40">&nbsp;
   <!-- Git Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="30" height="30">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40">&nbsp;
 </p>
 
 **Tenho interesse:**
 <p align="left">
   <!-- Python Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">&nbsp;
   <!-- Flutter Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" width="30" height="30">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" width="40" height="40">&nbsp;
   <!-- Elixir Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="30" height="30">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="40" height="40">&nbsp;
   <!-- NodeJS icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40">&nbsp;
 </p>
 
 ---
