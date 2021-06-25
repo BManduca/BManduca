@@ -68,13 +68,13 @@
 **Estou estudando:**
 <p align="left">
   <!-- TS Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="react" width="20" height="20">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="30" height="30">&nbsp;
   <!-- JS Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30">&nbsp;
   <!-- React Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="30" height="30">&nbsp;
   <!-- Git Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="30" height="30">&nbsp;
 </p>
 
 **Tenho interesse:**
