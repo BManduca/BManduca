@@ -98,7 +98,7 @@
   <!-- Flutter Icon -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40">&nbsp;
   <!-- Next.js Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40">&nbsp;
   <!-- NodeJS icon -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40">&nbsp;
   <!-- VueJS icon -->
