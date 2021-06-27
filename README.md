@@ -87,6 +87,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40">&nbsp;
   <!-- React Icon -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40">&nbsp;
+  <!-- Webpack icon -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40">&nbsp;
   <!-- Git Icon -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40">&nbsp;
 </p>
@@ -103,8 +105,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40">&nbsp;
   <!-- VueJS icon -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40">&nbsp;
-  <!-- VueJS icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40">&nbsp;
+  
 </p>
 
 ---
