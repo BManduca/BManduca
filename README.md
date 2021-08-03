@@ -1,31 +1,34 @@
 <img align="right" src="https://github.com/BManduca/BManduca/blob/main/imagens/user.png?raw=true" width="300"/>
 
 <h1 align="center"> 
-  Brunno Manduca 👋 <br>
-  I´m a Front-end Developer in construction 🛠
+  Brunno Manduca <img src="/assets/Hi.gif" width="30px"> <br> I´m a Front-end Developer 🛠
 </h1>
 
 <p align="center">
-<a href="https://twitter.com/BrunnoPrr">
-  <img alt="Siga no Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BrunnoPrr">
-</a>
+  <a>
+    <img alt="Me envie um email" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com">
+  </a>
+  
+  <a href="https://twitter.com/BrunnoPrr">
+    <img alt="Siga no Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BrunnoPrr">
+  </a>
 
-<a href="" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com"/>
-</a>
+   <a href="https://instagram.com/brunnomanduca" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/brunnomanduca"/>   </a>
 
- <a href="https://instagram.com/brunnomanduca" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/brunnomanduca"/>   </a>
+  <a href="https://www.linkedin.com/in/brunno-manduca-b97080118/">
+    <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-manduca-b97080118/">
+  </a>
 
-<a href="https://www.linkedin.com/in/brunno-manduca-b97080118/">
-  <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-manduca-b97080118/">
-</a>
+  <a href="https://app.rocketseat.com.br/me/brunno-manduca-1567308643">
+    <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
+  </a>  
+  
+</p>
+  
 
-<a href="https://app.rocketseat.com.br/me/brunno-manduca-1567308643">
-  <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
-</a>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
 
 
 ---
@@ -39,7 +42,7 @@
 
  #Busco *aprender*, *conquistar*, *pesquisar*, *registrar* todo meu conhecimento e *desenvolvimento* e também compartilhar.
 
-- [x] Formado em Técnico em Análise e Desenvolvimento de Sistemas pela *UDESC*.
+- [x] Formado em Tecnologia e Análise em Desenvolvimento de Sistemas pela *UDESC*.
 - [x] Sou um entusiasta do desenvolvimento e da tecnologia, hoje com foco em tecnologias que envolvem o **front-end**.
 - [x] Busco trocar o termo *dificuldade* por *desafio*.
 - [x] Gosto de *iniciar/criar* projetos, *alterar* e *inovar*.
@@ -58,36 +61,39 @@
 - [x] Front-end.
 - [x] Leitura.
 - [x] Team work.
+- [X] Web development technologies.
 
 ---
 
 <h2>Tecnologias: </h2>
 
-**Já estudei:**
+**Minha Stack:**
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Estou estudando:**
-<p align="left">
-  <!-- TS Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">&nbsp;
-  <!-- JS Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;
-  <!-- React Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">&nbsp;
-  <!-- Git Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;
-</p>
 
-**Tenho interesse:**
-<p align="left">
-  <!-- Python Icon -->
-  <img height='40' src="https://github.com/BManduca/BManduca/blob/main/imagens/python.png?raw=true">&nbsp;
-  <!-- Flutter Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">&nbsp;
-  <!-- Elixir Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">&nbsp;
-  <!-- NodeJS icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">&nbsp;
-</p>
+**Pretendo dominar:**
+![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![image](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![image]()
+![image]()
+
 
 ---
 
@@ -126,16 +132,23 @@
 
 <h2>Stats:</h2>
 
+<!--
+![Brunno github stats](https://github-readme-stats.vercel.app/api?username=BManduca&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <p align="center">
-<table align='left'>
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&layout=compact&theme=dark'>
-    </td>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=BManduca&show_icons=true&theme=dark'>
-    </td>
-  </row>
-</table>
+  <table align='center'>
+    <row>
+      <td>
+       <!--Card-->
+        <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&layout=compact&theme=dark'>
+      </td>
+      <td>
+        <img height='172' src='https://github-readme-stats.vercel.app/api?username=BManduca&show_icons=true&theme=dark'>
+      </td>
+    </row>
+  </table>
 </p>
+
