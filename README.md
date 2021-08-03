@@ -120,8 +120,6 @@
 
 -->
 
----
-
 <h2> Commits </h2>
 
 ![Snake animation](https://github.com/BManduca/BManduca/blob/output/github-contribution-grid-snake.svg)
