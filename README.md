@@ -1,7 +1,7 @@
-<img align="right" src="https://github.com/BManduca/BManduca/blob/main/imagens/user.png?raw=true" width="300"/>
+<img align="right" src="/assets/user.png" width="300"/>
 
 <h1 align="center"> 
-  Brunno Manduca <img src="/assets/Hi.gif" width="30px"> <br> I´m a Front-end Developer 🛠
+  Brunno Manduca <img src="/assets/Hi.gif" width="30px"> <br> Hi, I´m a Front-end Developer 🛠
 </h1>
 
 <p align="center">
@@ -67,7 +67,7 @@
 
 <h2>Tecnologias: </h2>
 
-**Minha Stack:**
+**Minha Stack:** <br>
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -82,8 +82,9 @@
 ![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<br>
 
-**Pretendo dominar:**
+**Pretendo dominar:** <br>
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
