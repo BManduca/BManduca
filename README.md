@@ -47,7 +47,7 @@
 - [x] Busco trocar o termo *dificuldade* por *desafio*.
 - [x] Gosto de *iniciar/criar* projetos, *alterar* e *inovar*.
 - [x] **Idiomas**: *Português(nativo) e inglês(básico)*.
-- [x] **Áreas**: *Startup, Inovação, Pesquisa, Front-end, Develop, Atividade física, música*.
+- [x] **Áreas**: *Startup, Inovação, Pesquisa, Front-end, Develope, Atividade física, música*.
 - [x] **Curiosidades**: *Colecionador, Toco bateria e Sou voluntário*.
 
 ---
