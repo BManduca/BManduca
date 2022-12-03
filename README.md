@@ -1,7 +1,7 @@
 <img align="right" src="/assets/user.png" width="300"/>
 
 <h1 align="center"> 
-  Brunno Manduca <img src="/assets/Hi.gif" width="30px"> <br> Hi, I´m a Front-end Developer 🛠
+  Brunno Manduca <img src="/assets/Hi.gif" width="30px"> <br> Hi, I'm a constantly evolving developer 🛠
 </h1>
 
 <p align="center">
@@ -43,11 +43,11 @@
  #Busco *aprender*, *conquistar*, *pesquisar*, *registrar* todo meu conhecimento e *desenvolvimento* e também compartilhar.
 
 - [x] Formado em Tecnologia e Análise em Desenvolvimento de Sistemas pela *UDESC*.
-- [x] Sou um entusiasta do desenvolvimento e da tecnologia, hoje com foco em tecnologias que envolvem o **front-end**.
+- [x] Sou um entusiasta do desenvolvimento e da tecnologia, hoje com foco em aprender e aprimorar o conhecimento em tecnologias que envolvem tanto o **front-end** quanto o **back-end**.
 - [x] Busco trocar o termo *dificuldade* por *desafio*.
 - [x] Gosto de *iniciar/criar* projetos, *alterar* e *inovar*.
 - [x] **Idiomas**: *Português(nativo) e inglês(básico)*.
-- [x] **Áreas**: *Startup, Inovação, Pesquisa, Front-end, Develope, Atividade física, música*.
+- [x] **Áreas**: *Startup, Inovação, Pesquisa, Front-end, Back-end, Development, Atividade física, música*.
 - [x] **Curiosidades**: *Colecionador, Toco bateria e Sou voluntário*.
 
 ---
