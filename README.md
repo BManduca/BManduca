@@ -77,7 +77,7 @@
 ![image](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-**Frameworks, Platforms and Libraries:** <br>
+**Frameworks and Libraries:** <br>
 ![image](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -156,6 +156,12 @@
 
 [![Manduca's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github-profile-trophy.vercel.app/?username=BManduca&row=1)
+
+https://github-readme-stats.vercel.app/api?username=BManduca&theme=blue-green
+
 -->
 
 <p align="center">
@@ -163,10 +169,13 @@
     <row>
       <td>
        <!--Card-->
-        <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&layout=compact&theme=dark'>
+        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&theme=blue-green'>
       </td>
       <td>
-        <img height='172' src='https://github-readme-stats.vercel.app/api?username=BManduca&show_icons=true&theme=dark'>
+        <img height='172' src='https://github-readme-streak-stats.herokuapp.com/?user=BManduca&theme=blue-green'>
+      </td>
+      <td>
+        <img height='172' src='https://github-readme-stats.vercel.app/api?username=BManduca&theme=blue-green'>
       </td>
     </row>
   </table>
