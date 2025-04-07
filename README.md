@@ -1,20 +1,24 @@
 <img align="right" src="/assets/user.png" width="300"/>
 
-<h1 align="center"> 
-  Brunno Manduca <img src="/assets/Hi.gif" width="30px"> <br> Hi, I'm a constantly evolving developer 🛠
-</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world!
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  <br />
+  <br />
+  <p align="center">
+    Eu sou o Brunno Manduca <br>
+    Desenvolvedor Web Front-end | Desenvolvedor Python 🧑🏻‍💻
+  </p>
+</div>
 
 <p align="center">
   <a>
     <img alt="Me envie um email" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com">
   </a>
-  
-  <a href="https://twitter.com/BrunnoPrr">
-    <img alt="Siga no Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BrunnoPrr">
-  </a>
 
-   <a href="https://instagram.com/brunnomanduca" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/brunnomanduca"/>   </a>
+  <a href="https://instagram.com/brunnomanduca" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/brunnomanduca"/>  
+  </a>
 
   <a href="https://www.linkedin.com/in/brunno-manduca-b97080118/">
     <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-manduca-b97080118/">
@@ -25,10 +29,6 @@
   </a>  
   
 </p>
-  
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BManduca" alt="BManduca" /> </p>
-
 
 
 ---
@@ -43,7 +43,9 @@
  #Busco *aprender*, *conquistar*, *pesquisar*, *registrar* todo meu conhecimento e *desenvolvimento* e também compartilhar.
 
 - [x] Formado em Tecnologia e Análise em Desenvolvimento de Sistemas pela *UDESC*.
-- [x] Sou um entusiasta do desenvolvimento e da tecnologia, hoje com foco em aprender e aprimorar o conhecimento em tecnologias que envolvem tanto o **front-end**, **back-end** e futuramente quero me dedicar a área de **data science**.
+- [x] Sou um entusiasta do desenvolvimento e da tecnologia
+- [x] Estou aprimorando meu conhecimento em tecnologias na área de Desenvolvimento Web.
+- [x] Atualmente também estou aprofundando meu conhecimento na linguagem Python, para resolver problemas reais, através desta linguagem tão simples e poderosa.
 - [x] Busco trocar o termo *dificuldade* por *desafio*.
 - [x] Gosto de *iniciar/criar* projetos, *alterar* e *inovar*.
 - [x] **Idiomas**: *Português(nativo) e inglês(básico)*.
@@ -156,8 +158,6 @@
 
 -->
 
-<h2>Stats:</h2>
-
 <!--
 ![Brunno github stats](https://github-readme-stats.vercel.app/api?username=BManduca&show_icons=true&theme=radical)
 
@@ -178,15 +178,22 @@ https://github-readme-stats.vercel.app/api?username=BManduca&theme=blue-green
     <row>
       <td>
        <!--Card-->
-        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&theme=blue-green'>
+        <img src='https://github-readme-stats.vercel.app/api?username=BManduca&theme=gotham&show_icons=true&hide_border=false&count_private=true'>
       </td>
       <td>
-        <img height='172' src='https://github-readme-streak-stats.herokuapp.com/?user=BManduca&theme=blue-green'>
+        <img height='172' src='https://github-readme-streak-stats.herokuapp.com/?user=BManduca&theme=gotham&hide_border=false'>
       </td>
       <td>
-        <img height='172' src='https://github-readme-stats.vercel.app/api?username=BManduca&theme=blue-green'>
+        <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&theme=gotham&show_icons=true&hide_border=false&layout=compact'>
       </td>
     </row>
   </table>
 </p>
+
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BManduca}/count.svg" /></p> 
+  <br>
+</div>
 
