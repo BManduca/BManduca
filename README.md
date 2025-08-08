@@ -88,9 +88,6 @@
         <img src='https://github-readme-stats.vercel.app/api?username=BManduca&theme=gotham&show_icons=true&hide_border=false&count_private=true'>
       </td>
       <td>
-        <img height='172' src='https://github-readme-streak-stats.herokuapp.com/?user=BManduca&theme=gotham&hide_border=false'>
-      </td>
-      <td>
         <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&theme=gotham&show_icons=true&hide_border=false&layout=compact'>
       </td>
     </row>
