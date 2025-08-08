@@ -79,3 +79,20 @@
 [![Gmail Badge](https://img.shields.io/badge/-{brunnomanducarfe@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
 [![Linkedin: Brunno Manduca](https://img.shields.io/badge/-brunnomanduca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunnomanduca/)](https://www.linkedin.com/in/brunnomanduca/)
 [![Website](https://img.shields.io/badge/Website-devbrunnomanduca.vercel.app-blue?logo=google-chrome)](https://devbrunnomanduca.vercel.app)
+
+<p align="center">
+  <table align='center'>
+    <row>
+      <td>
+       <!--Card-->
+        <img src='https://github-readme-stats.vercel.app/api?username=BManduca&theme=gotham&show_icons=true&hide_border=false&count_private=true'>
+      </td>
+      <td>
+        <img height='172' src='https://github-readme-streak-stats.herokuapp.com/?user=BManduca&theme=gotham&hide_border=false'>
+      </td>
+      <td>
+        <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&theme=gotham&show_icons=true&hide_border=false&layout=compact'>
+      </td>
+    </row>
+  </table>
+</p>
