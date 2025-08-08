@@ -6,8 +6,8 @@
   <br />
   <br />
   <p align="center">
-    Eu sou o Brunno Manduca <br>
-    Desenvolvedor Web Front-end | Desenvolvedor Python 🧑🏻‍💻
+    Brunno Manduca <br>
+    Desenvolvedor Web Front-end Pleno 🧑🏻‍💻
   </p>
 </div>
 
@@ -62,7 +62,6 @@
 - [x] Programação.
 - [x] Front-end.
 - [x] Back-end.
-- [x] Data Science.
 - [x] Leitura.
 - [x] Team work.
 - [x] Realizar pesquisas e adquirir conhecimento.
@@ -112,16 +111,6 @@
 
 **Cloud Computing Service:** <br>
 ![image](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-**Developer/Forums:** <br>
-![image](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![image](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-**Education:** <br>
-![image](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-![image](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
 **Aprendizados em vista:** <br>
 ![image](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -189,11 +178,4 @@ https://github-readme-stats.vercel.app/api?username=BManduca&theme=blue-green
     </row>
   </table>
 </p>
-
-<!-- Contador de Visitantes -->
-<div align="center">
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BManduca}/count.svg" /></p> 
-  <br>
-</div>
 
